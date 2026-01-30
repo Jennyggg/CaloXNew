@@ -91,7 +91,7 @@ class CaloXAnalysisManager:
         if last_event < 0:
             last_event = 1e6
 
-        ROOT.RDF.Experimental.AddProgressBar(self.rdf_org)
+        #ROOT.RDF.Experimental.AddProgressBar(self.rdf_org)
         return self.rdf_org.Filter(f"event_n >= {first_event} && event_n < {last_event}")
 
     def prepare(self, do_drs=True, do_fers=True):
