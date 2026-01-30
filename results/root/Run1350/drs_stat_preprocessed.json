@@ -1,0 +1,1442 @@
+{
+    "DRS_Board0_Group0_Channel0": {
+        "mean": 2640.2247255261104,
+        "min": 2228.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group0_Channel1": {
+        "mean": 2717.904761248448,
+        "min": 2435.0,
+        "max": 3889.0
+    },
+    "DRS_Board0_Group0_Channel2": {
+        "mean": 2687.2224097416943,
+        "min": 2606.0,
+        "max": 2744.0
+    },
+    "DRS_Board0_Group0_Channel3": {
+        "mean": 2688.1378005684282,
+        "min": 2605.0,
+        "max": 2759.0
+    },
+    "DRS_Board0_Group0_Channel4": {
+        "mean": 2613.7062333992844,
+        "min": 2149.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group0_Channel5": {
+        "mean": 2643.576098919629,
+        "min": 2115.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group0_Channel6": {
+        "mean": 2676.637854235862,
+        "min": 2589.0,
+        "max": 2737.0
+    },
+    "DRS_Board0_Group0_Channel7": {
+        "mean": 2651.1561395082244,
+        "min": 2571.0,
+        "max": 2702.0
+    },
+    "DRS_Board0_Group0_Channel8": {
+        "mean": 1976.4882955330831,
+        "min": 565.0,
+        "max": 2302.0
+    },
+    "DRS_Board0_Group1_Channel0": {
+        "mean": 2616.3314109946014,
+        "min": 2009.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group1_Channel1": {
+        "mean": 2687.1758321840134,
+        "min": 2627.0,
+        "max": 2715.0
+    },
+    "DRS_Board0_Group1_Channel2": {
+        "mean": 2612.5156591485033,
+        "min": 1673.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group1_Channel3": {
+        "mean": 2617.729076861621,
+        "min": 1443.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group1_Channel4": {
+        "mean": 2625.8736462255088,
+        "min": 2078.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group1_Channel5": {
+        "mean": 2664.976474029582,
+        "min": 1634.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group1_Channel6": {
+        "mean": 2608.9463133167924,
+        "min": 2183.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group1_Channel7": {
+        "mean": 2608.9561703766235,
+        "min": 1831.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group1_Channel8": {
+        "mean": 1946.4721005187184,
+        "min": 534.0,
+        "max": 2277.0
+    },
+    "DRS_Board0_Group2_Channel0": {
+        "mean": 2624.449542448553,
+        "min": 1853.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group2_Channel1": {
+        "mean": 2645.1620260249324,
+        "min": 1533.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group2_Channel2": {
+        "mean": 2640.75627639483,
+        "min": 1482.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group2_Channel3": {
+        "mean": 2630.897782287622,
+        "min": 1443.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group2_Channel4": {
+        "mean": 2669.7312244444456,
+        "min": 1896.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group2_Channel5": {
+        "mean": 2639.658254521,
+        "min": 1429.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group2_Channel6": {
+        "mean": 2631.8467982640395,
+        "min": 1790.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group2_Channel7": {
+        "mean": 2617.698623634368,
+        "min": 2071.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group2_Channel8": {
+        "mean": 1980.852722856136,
+        "min": 576.0,
+        "max": 2307.0
+    },
+    "DRS_Board0_Group3_Channel0": {
+        "mean": 2620.044703740366,
+        "min": 1532.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group3_Channel1": {
+        "mean": 2586.70343510845,
+        "min": 1940.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group3_Channel2": {
+        "mean": 2580.6394354617155,
+        "min": 1634.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group3_Channel3": {
+        "mean": 2631.1071345193864,
+        "min": 1090.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group3_Channel4": {
+        "mean": 2557.094151966769,
+        "min": 1834.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group3_Channel5": {
+        "mean": 2609.661919113553,
+        "min": 1181.0,
+        "max": 4095.0
+    },
+    "DRS_Board0_Group3_Channel6": {
+        "mean": 2573.379692705048,
+        "min": 0.0,
+        "max": 3286.0
+    },
+    "DRS_Board0_Group3_Channel7": {
+        "mean": 2612.200662919853,
+        "min": 0.0,
+        "max": 3741.0
+    },
+    "DRS_Board0_Group3_Channel8": {
+        "mean": 1940.337666561539,
+        "min": 529.0,
+        "max": 2266.0
+    },
+    "DRS_Board1_Group0_Channel0": {
+        "mean": 2638.0140343034227,
+        "min": 1416.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group0_Channel1": {
+        "mean": 2617.7244839841596,
+        "min": 1354.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group0_Channel2": {
+        "mean": 2651.9512058695077,
+        "min": 1467.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group0_Channel3": {
+        "mean": 2607.571015489484,
+        "min": 1280.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group0_Channel4": {
+        "mean": 2629.782147139318,
+        "min": 1792.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group0_Channel5": {
+        "mean": 2606.204327512406,
+        "min": 1141.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group0_Channel6": {
+        "mean": 2622.8730046802316,
+        "min": 1869.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group0_Channel7": {
+        "mean": 2624.4052858341383,
+        "min": 1067.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group0_Channel8": {
+        "mean": 1923.2964530138152,
+        "min": 511.0,
+        "max": 2256.0
+    },
+    "DRS_Board1_Group1_Channel0": {
+        "mean": 2635.425962310216,
+        "min": 1576.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group1_Channel1": {
+        "mean": 2669.4736865184327,
+        "min": 1086.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group1_Channel2": {
+        "mean": 2653.2378827866287,
+        "min": 1581.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group1_Channel3": {
+        "mean": 2627.7289586700704,
+        "min": 980.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group1_Channel4": {
+        "mean": 2639.864122026963,
+        "min": 1841.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group1_Channel5": {
+        "mean": 2685.0130232844285,
+        "min": 1231.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group1_Channel6": {
+        "mean": 2656.69900939311,
+        "min": 1925.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group1_Channel7": {
+        "mean": 2643.499896014535,
+        "min": 1321.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group1_Channel8": {
+        "mean": 1957.8920586211611,
+        "min": 542.0,
+        "max": 2285.0
+    },
+    "DRS_Board1_Group2_Channel0": {
+        "mean": 2654.3276858433164,
+        "min": 1790.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group2_Channel1": {
+        "mean": 2651.2649355236217,
+        "min": 1405.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group2_Channel2": {
+        "mean": 2654.5347005387994,
+        "min": 1826.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group2_Channel3": {
+        "mean": 2668.2806630076307,
+        "min": 1190.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group2_Channel4": {
+        "mean": 2682.786310754307,
+        "min": 2029.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group2_Channel5": {
+        "mean": 2665.2157271837177,
+        "min": 1406.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group2_Channel6": {
+        "mean": 2683.329623453269,
+        "min": 2059.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group2_Channel7": {
+        "mean": 2632.546017476026,
+        "min": 1350.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group2_Channel8": {
+        "mean": 1977.2391212569853,
+        "min": 670.0,
+        "max": 2309.0
+    },
+    "DRS_Board1_Group3_Channel0": {
+        "mean": 2650.5451358517553,
+        "min": 1995.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group3_Channel1": {
+        "mean": 2670.207366844706,
+        "min": 1575.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group3_Channel2": {
+        "mean": 2687.361359617081,
+        "min": 2184.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group3_Channel3": {
+        "mean": 2677.821867623615,
+        "min": 1798.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group3_Channel4": {
+        "mean": 2738.4971913914665,
+        "min": 978.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group3_Channel5": {
+        "mean": 2674.468984227164,
+        "min": 1902.0,
+        "max": 4095.0
+    },
+    "DRS_Board1_Group3_Channel6": {
+        "mean": 2690.282025328873,
+        "min": 1.0,
+        "max": 3392.0
+    },
+    "DRS_Board1_Group3_Channel7": {
+        "mean": 2705.47080865042,
+        "min": 0.0,
+        "max": 3814.0
+    },
+    "DRS_Board1_Group3_Channel8": {
+        "mean": 2029.6582876685327,
+        "min": 722.0,
+        "max": 2358.0
+    },
+    "DRS_Board2_Group0_Channel0": {
+        "mean": 2604.152610162225,
+        "min": 2544.0,
+        "max": 2634.0
+    },
+    "DRS_Board2_Group0_Channel1": {
+        "mean": 2616.7648127892035,
+        "min": 1968.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group0_Channel2": {
+        "mean": 2582.4088046314455,
+        "min": 2327.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group0_Channel3": {
+        "mean": 2627.658086396407,
+        "min": 2142.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group0_Channel4": {
+        "mean": 2629.0228193235407,
+        "min": 2463.0,
+        "max": 3757.0
+    },
+    "DRS_Board2_Group0_Channel5": {
+        "mean": 2624.52797663303,
+        "min": 2256.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group0_Channel6": {
+        "mean": 2677.2772962808854,
+        "min": 2259.0,
+        "max": 4027.0
+    },
+    "DRS_Board2_Group0_Channel7": {
+        "mean": 2582.493600370267,
+        "min": 1967.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group0_Channel8": {
+        "mean": 1871.5798069389143,
+        "min": 491.0,
+        "max": 2205.0
+    },
+    "DRS_Board2_Group1_Channel0": {
+        "mean": 2625.0857668344806,
+        "min": 2431.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group1_Channel1": {
+        "mean": 2608.1091334195503,
+        "min": 1971.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group1_Channel2": {
+        "mean": 2640.4701512436063,
+        "min": 2115.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group1_Channel3": {
+        "mean": 2632.038953779173,
+        "min": 1368.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group1_Channel4": {
+        "mean": 2595.023979063695,
+        "min": 2305.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group1_Channel5": {
+        "mean": 2632.3395035739277,
+        "min": 2045.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group1_Channel6": {
+        "mean": 2615.4158843053324,
+        "min": 2520.0,
+        "max": 2707.0
+    },
+    "DRS_Board2_Group1_Channel7": {
+        "mean": 2540.892107938222,
+        "min": 1459.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group1_Channel8": {
+        "mean": 1875.6369048920676,
+        "min": 486.0,
+        "max": 2204.0
+    },
+    "DRS_Board2_Group2_Channel0": {
+        "mean": 2637.452504590606,
+        "min": 2182.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group2_Channel1": {
+        "mean": 2617.4608799826788,
+        "min": 2555.0,
+        "max": 2645.0
+    },
+    "DRS_Board2_Group2_Channel2": {
+        "mean": 2602.5624562652765,
+        "min": 1946.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group2_Channel3": {
+        "mean": 2629.9270396242755,
+        "min": 1747.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group2_Channel4": {
+        "mean": 2612.875885628154,
+        "min": 2187.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group2_Channel5": {
+        "mean": 2593.8721241339294,
+        "min": 1717.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group2_Channel6": {
+        "mean": 2619.7871438314946,
+        "min": 2075.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group2_Channel7": {
+        "mean": 2625.8616049704206,
+        "min": 1771.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group2_Channel8": {
+        "mean": 1916.1409274856724,
+        "min": 590.0,
+        "max": 2248.0
+    },
+    "DRS_Board2_Group3_Channel0": {
+        "mean": 2629.937929993951,
+        "min": 1919.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group3_Channel1": {
+        "mean": 2596.4193063549633,
+        "min": 1719.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group3_Channel2": {
+        "mean": 2609.9845816619686,
+        "min": 1561.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group3_Channel3": {
+        "mean": 2591.4676445432615,
+        "min": 1586.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group3_Channel4": {
+        "mean": 2601.756661499091,
+        "min": 2183.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group3_Channel5": {
+        "mean": 2566.0263099396707,
+        "min": 1808.0,
+        "max": 4095.0
+    },
+    "DRS_Board2_Group3_Channel6": {
+        "mean": 2606.4691832663557,
+        "min": 0.0,
+        "max": 3284.0
+    },
+    "DRS_Board2_Group3_Channel7": {
+        "mean": 2602.119686269576,
+        "min": 0.0,
+        "max": 3676.0
+    },
+    "DRS_Board2_Group3_Channel8": {
+        "mean": 1865.9350440026758,
+        "min": 529.0,
+        "max": 2196.0
+    },
+    "DRS_Board3_Group0_Channel0": {
+        "mean": 2629.8234106200844,
+        "min": 2234.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group0_Channel1": {
+        "mean": 2629.6756183997527,
+        "min": 1567.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group0_Channel2": {
+        "mean": 2623.572652384713,
+        "min": 2533.0,
+        "max": 2683.0
+    },
+    "DRS_Board3_Group0_Channel3": {
+        "mean": 2687.760226687544,
+        "min": 1437.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group0_Channel4": {
+        "mean": 2619.075579492788,
+        "min": 2290.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group0_Channel5": {
+        "mean": 2643.0191344035816,
+        "min": 1439.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group0_Channel6": {
+        "mean": 2638.2051302524787,
+        "min": 2541.0,
+        "max": 2732.0
+    },
+    "DRS_Board3_Group0_Channel7": {
+        "mean": 2631.232393847818,
+        "min": 1075.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group0_Channel8": {
+        "mean": 1935.621862149075,
+        "min": 601.0,
+        "max": 2270.0
+    },
+    "DRS_Board3_Group1_Channel0": {
+        "mean": 2678.999512026741,
+        "min": 2095.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group1_Channel1": {
+        "mean": 2657.790912756002,
+        "min": 1639.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group1_Channel2": {
+        "mean": 2641.2536628986018,
+        "min": 2544.0,
+        "max": 2717.0
+    },
+    "DRS_Board3_Group1_Channel3": {
+        "mean": 2639.759695172056,
+        "min": 939.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group1_Channel4": {
+        "mean": 2681.275156667328,
+        "min": 2263.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group1_Channel5": {
+        "mean": 2638.957425170504,
+        "min": 1890.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group1_Channel6": {
+        "mean": 2611.7921251241205,
+        "min": 2437.0,
+        "max": 2812.0
+    },
+    "DRS_Board3_Group1_Channel7": {
+        "mean": 2650.117737494949,
+        "min": 1150.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group1_Channel8": {
+        "mean": 1932.280141655846,
+        "min": 608.0,
+        "max": 2259.0
+    },
+    "DRS_Board3_Group2_Channel0": {
+        "mean": 2598.324209433272,
+        "min": 2175.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group2_Channel1": {
+        "mean": 2623.532772515067,
+        "min": 1906.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group2_Channel2": {
+        "mean": 2667.886196820732,
+        "min": 2182.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group2_Channel3": {
+        "mean": 2645.128401452732,
+        "min": 1524.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group2_Channel4": {
+        "mean": 2578.257455961905,
+        "min": 2379.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group2_Channel5": {
+        "mean": 2638.1470720988477,
+        "min": 2183.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group2_Channel6": {
+        "mean": 2619.817075244976,
+        "min": 2129.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group2_Channel7": {
+        "mean": 2609.359062697114,
+        "min": 1828.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group2_Channel8": {
+        "mean": 1891.8268251239356,
+        "min": 626.0,
+        "max": 2227.0
+    },
+    "DRS_Board3_Group3_Channel0": {
+        "mean": 2634.796829455829,
+        "min": 2240.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group3_Channel1": {
+        "mean": 2635.0445172903073,
+        "min": 2188.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group3_Channel2": {
+        "mean": 2684.5735177624574,
+        "min": 2248.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group3_Channel3": {
+        "mean": 2636.421578366157,
+        "min": 2077.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group3_Channel4": {
+        "mean": 2691.144505032265,
+        "min": 1726.0,
+        "max": 3883.0
+    },
+    "DRS_Board3_Group3_Channel5": {
+        "mean": 2635.9831135073155,
+        "min": 2059.0,
+        "max": 4095.0
+    },
+    "DRS_Board3_Group3_Channel6": {
+        "mean": 2656.2576755594964,
+        "min": 6.0,
+        "max": 3341.0
+    },
+    "DRS_Board3_Group3_Channel7": {
+        "mean": 2626.2361430993997,
+        "min": 0.0,
+        "max": 3715.0
+    },
+    "DRS_Board3_Group3_Channel8": {
+        "mean": 1908.469306578257,
+        "min": 631.0,
+        "max": 2239.0
+    },
+    "DRS_Board4_Group0_Channel0": {
+        "mean": 2585.898299982013,
+        "min": 1637.0,
+        "max": 2637.0
+    },
+    "DRS_Board4_Group0_Channel1": {
+        "mean": 2618.405342119496,
+        "min": 1584.0,
+        "max": 2670.0
+    },
+    "DRS_Board4_Group0_Channel2": {
+        "mean": 2697.1250851595146,
+        "min": 1543.0,
+        "max": 2756.0
+    },
+    "DRS_Board4_Group0_Channel3": {
+        "mean": 2617.565896524876,
+        "min": 1813.0,
+        "max": 2661.0
+    },
+    "DRS_Board4_Group0_Channel4": {
+        "mean": 2598.79060580446,
+        "min": 1818.0,
+        "max": 2640.0
+    },
+    "DRS_Board4_Group0_Channel5": {
+        "mean": 2614.3486362389,
+        "min": 2101.0,
+        "max": 2647.0
+    },
+    "DRS_Board4_Group0_Channel6": {
+        "mean": 2635.7519878124876,
+        "min": 1373.0,
+        "max": 2702.0
+    },
+    "DRS_Board4_Group0_Channel7": {
+        "mean": 2605.5999645271354,
+        "min": 1648.0,
+        "max": 2655.0
+    },
+    "DRS_Board4_Group0_Channel8": {
+        "mean": 1904.9184407847242,
+        "min": 614.0,
+        "max": 2246.0
+    },
+    "DRS_Board4_Group1_Channel0": {
+        "mean": 2622.888945756007,
+        "min": 2390.0,
+        "max": 2651.0
+    },
+    "DRS_Board4_Group1_Channel1": {
+        "mean": 2638.9557881212795,
+        "min": 2193.0,
+        "max": 2669.0
+    },
+    "DRS_Board4_Group1_Channel2": {
+        "mean": 2637.727874580208,
+        "min": 2027.0,
+        "max": 2670.0
+    },
+    "DRS_Board4_Group1_Channel3": {
+        "mean": 2620.112601359842,
+        "min": 1951.0,
+        "max": 2656.0
+    },
+    "DRS_Board4_Group1_Channel4": {
+        "mean": 2640.49718030379,
+        "min": 2489.0,
+        "max": 2669.0
+    },
+    "DRS_Board4_Group1_Channel5": {
+        "mean": 2644.2761971379628,
+        "min": 2329.0,
+        "max": 2673.0
+    },
+    "DRS_Board4_Group1_Channel6": {
+        "mean": 2634.7031892931236,
+        "min": 2289.0,
+        "max": 2663.0
+    },
+    "DRS_Board4_Group1_Channel7": {
+        "mean": 2652.2153645628005,
+        "min": 2169.0,
+        "max": 2683.0
+    },
+    "DRS_Board4_Group1_Channel8": {
+        "mean": 1953.068336006182,
+        "min": 666.0,
+        "max": 2292.0
+    },
+    "DRS_Board4_Group2_Channel0": {
+        "mean": 2614.631297261221,
+        "min": 2214.0,
+        "max": 2659.0
+    },
+    "DRS_Board4_Group2_Channel1": {
+        "mean": 2557.0676804473137,
+        "min": 1632.0,
+        "max": 2638.0
+    },
+    "DRS_Board4_Group2_Channel2": {
+        "mean": 2578.2941545923923,
+        "min": 2247.0,
+        "max": 2607.0
+    },
+    "DRS_Board4_Group2_Channel3": {
+        "mean": 2615.628562878521,
+        "min": 2133.0,
+        "max": 2646.0
+    },
+    "DRS_Board4_Group2_Channel4": {
+        "mean": 2627.930181710077,
+        "min": 2183.0,
+        "max": 2658.0
+    },
+    "DRS_Board4_Group2_Channel5": {
+        "mean": 2562.3323808582973,
+        "min": 2253.0,
+        "max": 2590.0
+    },
+    "DRS_Board4_Group2_Channel6": {
+        "mean": 2605.822942512246,
+        "min": 2351.0,
+        "max": 2634.0
+    },
+    "DRS_Board4_Group2_Channel7": {
+        "mean": 2630.663005166857,
+        "min": 2151.0,
+        "max": 2661.0
+    },
+    "DRS_Board4_Group2_Channel8": {
+        "mean": 1931.8750870459596,
+        "min": 723.0,
+        "max": 2272.0
+    },
+    "DRS_Board4_Group3_Channel0": {
+        "mean": 2592.0625390763594,
+        "min": 2225.0,
+        "max": 2619.0
+    },
+    "DRS_Board4_Group3_Channel1": {
+        "mean": 2662.153716350442,
+        "min": 2445.0,
+        "max": 2689.0
+    },
+    "DRS_Board4_Group3_Channel2": {
+        "mean": 2618.865030638946,
+        "min": 2090.0,
+        "max": 2651.0
+    },
+    "DRS_Board4_Group3_Channel3": {
+        "mean": 2603.26605811236,
+        "min": 2062.0,
+        "max": 2638.0
+    },
+    "DRS_Board4_Group3_Channel4": {
+        "mean": 2647.6702092691125,
+        "min": 2508.0,
+        "max": 2675.0
+    },
+    "DRS_Board4_Group3_Channel5": {
+        "mean": 2651.574291628373,
+        "min": 2343.0,
+        "max": 2687.0
+    },
+    "DRS_Board4_Group3_Channel6": {
+        "mean": 2690.4829233998635,
+        "min": 2040.0,
+        "max": 2725.0
+    },
+    "DRS_Board4_Group3_Channel7": {
+        "mean": 2654.0894422067186,
+        "min": 1909.0,
+        "max": 2696.0
+    },
+    "DRS_Board4_Group3_Channel8": {
+        "mean": 1943.5535830827314,
+        "min": 736.0,
+        "max": 2281.0
+    },
+    "DRS_Board5_Group0_Channel0": {
+        "mean": 2598.595488455265,
+        "min": 1366.0,
+        "max": 2668.0
+    },
+    "DRS_Board5_Group0_Channel1": {
+        "mean": 2642.0224598210325,
+        "min": 1863.0,
+        "max": 2678.0
+    },
+    "DRS_Board5_Group0_Channel2": {
+        "mean": 2566.1295077564455,
+        "min": 1398.0,
+        "max": 2627.0
+    },
+    "DRS_Board5_Group0_Channel3": {
+        "mean": 2642.6808720334307,
+        "min": 1805.0,
+        "max": 2687.0
+    },
+    "DRS_Board5_Group0_Channel4": {
+        "mean": 2570.706537424912,
+        "min": 1094.0,
+        "max": 2647.0
+    },
+    "DRS_Board5_Group0_Channel5": {
+        "mean": 2598.2190947959375,
+        "min": 1447.0,
+        "max": 2659.0
+    },
+    "DRS_Board5_Group0_Channel6": {
+        "mean": 2673.8802365401766,
+        "min": 1251.0,
+        "max": 2745.0
+    },
+    "DRS_Board5_Group0_Channel7": {
+        "mean": 2622.8266878369423,
+        "min": 1659.0,
+        "max": 2672.0
+    },
+    "DRS_Board5_Group0_Channel8": {
+        "mean": 1906.1147422823612,
+        "min": 646.0,
+        "max": 2366.0
+    },
+    "DRS_Board5_Group1_Channel0": {
+        "mean": 2602.2159197935966,
+        "min": 1851.0,
+        "max": 2642.0
+    },
+    "DRS_Board5_Group1_Channel1": {
+        "mean": 2587.132012916835,
+        "min": 1754.0,
+        "max": 2629.0
+    },
+    "DRS_Board5_Group1_Channel2": {
+        "mean": 2657.892469596667,
+        "min": 1901.0,
+        "max": 2698.0
+    },
+    "DRS_Board5_Group1_Channel3": {
+        "mean": 2601.58174924573,
+        "min": 1891.0,
+        "max": 2642.0
+    },
+    "DRS_Board5_Group1_Channel4": {
+        "mean": 2615.0923040206994,
+        "min": 1571.0,
+        "max": 2673.0
+    },
+    "DRS_Board5_Group1_Channel5": {
+        "mean": 2641.051339060221,
+        "min": 1728.0,
+        "max": 2693.0
+    },
+    "DRS_Board5_Group1_Channel6": {
+        "mean": 2656.212588716811,
+        "min": 1433.0,
+        "max": 2721.0
+    },
+    "DRS_Board5_Group1_Channel7": {
+        "mean": 2628.483395396089,
+        "min": 1842.0,
+        "max": 2669.0
+    },
+    "DRS_Board5_Group1_Channel8": {
+        "mean": 1902.769849327717,
+        "min": 635.0,
+        "max": 2243.0
+    },
+    "DRS_Board5_Group2_Channel0": {
+        "mean": 2601.462551565395,
+        "min": 737.0,
+        "max": 2702.0
+    },
+    "DRS_Board5_Group2_Channel1": {
+        "mean": 2602.4719503731003,
+        "min": 935.0,
+        "max": 2684.0
+    },
+    "DRS_Board5_Group2_Channel2": {
+        "mean": 2601.0654703423133,
+        "min": 692.0,
+        "max": 2693.0
+    },
+    "DRS_Board5_Group2_Channel3": {
+        "mean": 2604.355407960274,
+        "min": 729.0,
+        "max": 2695.0
+    },
+    "DRS_Board5_Group2_Channel4": {
+        "mean": 2573.184664095763,
+        "min": 1141.0,
+        "max": 2646.0
+    },
+    "DRS_Board5_Group2_Channel5": {
+        "mean": 2629.7962039645836,
+        "min": 1443.0,
+        "max": 2690.0
+    },
+    "DRS_Board5_Group2_Channel6": {
+        "mean": 2615.0592900021807,
+        "min": 1543.0,
+        "max": 2672.0
+    },
+    "DRS_Board5_Group2_Channel7": {
+        "mean": 2567.580192543661,
+        "min": 1948.0,
+        "max": 2603.0
+    },
+    "DRS_Board5_Group2_Channel8": {
+        "mean": 1867.0251202088918,
+        "min": 561.0,
+        "max": 2206.0
+    },
+    "DRS_Board5_Group3_Channel0": {
+        "mean": 2639.853183880182,
+        "min": 2050.0,
+        "max": 4095.0
+    },
+    "DRS_Board5_Group3_Channel1": {
+        "mean": 2612.804073327424,
+        "min": 1501.0,
+        "max": 4095.0
+    },
+    "DRS_Board5_Group3_Channel2": {
+        "mean": 2629.6025551165317,
+        "min": 1987.0,
+        "max": 4095.0
+    },
+    "DRS_Board5_Group3_Channel3": {
+        "mean": 2625.1303410261276,
+        "min": 1613.0,
+        "max": 4095.0
+    },
+    "DRS_Board5_Group3_Channel4": {
+        "mean": 2601.137870328392,
+        "min": 2010.0,
+        "max": 4095.0
+    },
+    "DRS_Board5_Group3_Channel5": {
+        "mean": 2638.602064294356,
+        "min": 1430.0,
+        "max": 4095.0
+    },
+    "DRS_Board5_Group3_Channel6": {
+        "mean": 2622.514379830839,
+        "min": 2250.0,
+        "max": 4095.0
+    },
+    "DRS_Board5_Group3_Channel7": {
+        "mean": 2624.6988020381614,
+        "min": 1904.0,
+        "max": 4095.0
+    },
+    "DRS_Board5_Group3_Channel8": {
+        "mean": 1940.390539609492,
+        "min": 603.0,
+        "max": 2272.0
+    },
+    "DRS_Board6_Group0_Channel0": {
+        "mean": 2615.489035596985,
+        "min": 2323.0,
+        "max": 2666.0
+    },
+    "DRS_Board6_Group0_Channel1": {
+        "mean": 2596.481732899107,
+        "min": 2466.0,
+        "max": 2627.0
+    },
+    "DRS_Board6_Group0_Channel2": {
+        "mean": 2581.0729902123535,
+        "min": 1885.0,
+        "max": 2621.0
+    },
+    "DRS_Board6_Group0_Channel3": {
+        "mean": 2518.67002843989,
+        "min": 2237.0,
+        "max": 2568.0
+    },
+    "DRS_Board6_Group0_Channel4": {
+        "mean": 2569.938212614203,
+        "min": 2444.0,
+        "max": 2601.0
+    },
+    "DRS_Board6_Group0_Channel5": {
+        "mean": 2602.8470435788804,
+        "min": 2127.0,
+        "max": 2653.0
+    },
+    "DRS_Board6_Group0_Channel6": {
+        "mean": 2589.670357181796,
+        "min": 2253.0,
+        "max": 2625.0
+    },
+    "DRS_Board6_Group0_Channel7": {
+        "mean": 2600.3300705792203,
+        "min": 2220.0,
+        "max": 2633.0
+    },
+    "DRS_Board6_Group0_Channel8": {
+        "mean": 1892.9750109567801,
+        "min": 539.0,
+        "max": 2268.0
+    },
+    "DRS_Board6_Group1_Channel0": {
+        "mean": 2639.679833949726,
+        "min": 1887.0,
+        "max": 2687.0
+    },
+    "DRS_Board6_Group1_Channel1": {
+        "mean": 2564.4869124994457,
+        "min": 1506.0,
+        "max": 2614.0
+    },
+    "DRS_Board6_Group1_Channel2": {
+        "mean": 2630.261672666845,
+        "min": 2013.0,
+        "max": 2669.0
+    },
+    "DRS_Board6_Group1_Channel3": {
+        "mean": 2593.6692421773364,
+        "min": 2016.0,
+        "max": 2627.0
+    },
+    "DRS_Board6_Group1_Channel4": {
+        "mean": 2624.9861837542135,
+        "min": 2408.0,
+        "max": 2656.0
+    },
+    "DRS_Board6_Group1_Channel5": {
+        "mean": 2585.1228883366266,
+        "min": 2404.0,
+        "max": 2616.0
+    },
+    "DRS_Board6_Group1_Channel6": {
+        "mean": 2556.359831173187,
+        "min": 2184.0,
+        "max": 2592.0
+    },
+    "DRS_Board6_Group1_Channel7": {
+        "mean": 2585.8946108271775,
+        "min": 2277.0,
+        "max": 2632.0
+    },
+    "DRS_Board6_Group1_Channel8": {
+        "mean": 1894.047386342077,
+        "min": 534.0,
+        "max": 2256.0
+    },
+    "DRS_Board6_Group2_Channel0": {
+        "mean": 2647.715587163304,
+        "min": 2307.0,
+        "max": 2686.0
+    },
+    "DRS_Board6_Group2_Channel1": {
+        "mean": 2604.590511128023,
+        "min": 1935.0,
+        "max": 2674.0
+    },
+    "DRS_Board6_Group2_Channel2": {
+        "mean": 2596.341340008833,
+        "min": 2066.0,
+        "max": 2628.0
+    },
+    "DRS_Board6_Group2_Channel3": {
+        "mean": 2579.870124078799,
+        "min": 1751.0,
+        "max": 2620.0
+    },
+    "DRS_Board6_Group2_Channel4": {
+        "mean": 2607.233131332295,
+        "min": 1736.0,
+        "max": 2652.0
+    },
+    "DRS_Board6_Group2_Channel5": {
+        "mean": 2614.779449600043,
+        "min": 1751.0,
+        "max": 2662.0
+    },
+    "DRS_Board6_Group2_Channel6": {
+        "mean": 2626.346566192812,
+        "min": 1770.0,
+        "max": 2671.0
+    },
+    "DRS_Board6_Group2_Channel7": {
+        "mean": 2603.76037725665,
+        "min": 1677.0,
+        "max": 2650.0
+    },
+    "DRS_Board6_Group2_Channel8": {
+        "mean": 1897.0741097981797,
+        "min": 682.0,
+        "max": 2235.0
+    },
+    "DRS_Board6_Group3_Channel0": {
+        "mean": 2636.461025392935,
+        "min": 2166.0,
+        "max": 2668.0
+    },
+    "DRS_Board6_Group3_Channel1": {
+        "mean": 2614.3662578291314,
+        "min": 1520.0,
+        "max": 2667.0
+    },
+    "DRS_Board6_Group3_Channel2": {
+        "mean": 2636.8607686208284,
+        "min": 1980.0,
+        "max": 2674.0
+    },
+    "DRS_Board6_Group3_Channel3": {
+        "mean": 2640.4265128441493,
+        "min": 1701.0,
+        "max": 2690.0
+    },
+    "DRS_Board6_Group3_Channel4": {
+        "mean": 2589.4363808761605,
+        "min": 1833.0,
+        "max": 2630.0
+    },
+    "DRS_Board6_Group3_Channel5": {
+        "mean": 2609.099717248852,
+        "min": 1546.0,
+        "max": 2666.0
+    },
+    "DRS_Board6_Group3_Channel6": {
+        "mean": 2613.8194931669113,
+        "min": 1810.0,
+        "max": 2659.0
+    },
+    "DRS_Board6_Group3_Channel7": {
+        "mean": 2586.3366478042703,
+        "min": 1782.0,
+        "max": 2629.0
+    },
+    "DRS_Board6_Group3_Channel8": {
+        "mean": 1873.1813809115795,
+        "min": 656.0,
+        "max": 2211.0
+    },
+    "DRS_Board7_Group0_Channel0": {
+        "mean": 2500.7113106696092,
+        "min": 0.0,
+        "max": 3736.0
+    },
+    "DRS_Board7_Group0_Channel1": {
+        "mean": 2585.8015896494076,
+        "min": 0.0,
+        "max": 3870.0
+    },
+    "DRS_Board7_Group0_Channel2": {
+        "mean": 2458.0410088106987,
+        "min": 0.0,
+        "max": 4037.0
+    },
+    "DRS_Board7_Group0_Channel3": {
+        "mean": 2542.2834845902858,
+        "min": 0.0,
+        "max": 4091.0
+    },
+    "DRS_Board7_Group0_Channel4": {
+        "mean": 2512.7117337722616,
+        "min": 0.0,
+        "max": 3850.0
+    },
+    "DRS_Board7_Group0_Channel5": {
+        "mean": 2524.5992275816425,
+        "min": 0.0,
+        "max": 3848.0
+    },
+    "DRS_Board7_Group0_Channel6": {
+        "mean": 2450.1631754858868,
+        "min": 0.0,
+        "max": 3941.0
+    },
+    "DRS_Board7_Group0_Channel7": {
+        "mean": 2493.0508759572363,
+        "min": 0.0,
+        "max": 3799.0
+    },
+    "DRS_Board7_Group0_Channel8": {
+        "mean": 2079.605756298108,
+        "min": 604.0,
+        "max": 2416.0
+    },
+    "DRS_Board7_Group1_Channel0": {
+        "mean": 2391.232734986362,
+        "min": 2331.0,
+        "max": 2467.0
+    },
+    "DRS_Board7_Group1_Channel1": {
+        "mean": 2619.203500595039,
+        "min": 0.0,
+        "max": 2731.0
+    },
+    "DRS_Board7_Group1_Channel2": {
+        "mean": 2622.8122917595774,
+        "min": 2543.0,
+        "max": 2701.0
+    },
+    "DRS_Board7_Group1_Channel3": {
+        "mean": 2595.053471859477,
+        "min": 2529.0,
+        "max": 2677.0
+    },
+    "DRS_Board7_Group1_Channel4": {
+        "mean": 2621.935445622955,
+        "min": 2557.0,
+        "max": 2701.0
+    },
+    "DRS_Board7_Group1_Channel5": {
+        "mean": 2127.6614046530667,
+        "min": 2068.0,
+        "max": 2203.0
+    },
+    "DRS_Board7_Group1_Channel6": {
+        "mean": 2543.210635322319,
+        "min": 0.0,
+        "max": 2817.0
+    },
+    "DRS_Board7_Group1_Channel7": {
+        "mean": 2612.967212354875,
+        "min": 2546.0,
+        "max": 2689.0
+    },
+    "DRS_Board7_Group1_Channel8": {
+        "mean": 2049.3912057170523,
+        "min": 513.0,
+        "max": 2404.0
+    },
+    "DRS_Board7_Group2_Channel0": {
+        "mean": 2600.382353862885,
+        "min": 0.0,
+        "max": 2726.0
+    },
+    "DRS_Board7_Group2_Channel1": {
+        "mean": 2612.032448162033,
+        "min": 0.0,
+        "max": 2766.0
+    },
+    "DRS_Board7_Group2_Channel2": {
+        "mean": 2491.421330818381,
+        "min": 0.0,
+        "max": 2580.0
+    },
+    "DRS_Board7_Group2_Channel3": {
+        "mean": 2454.81774635739,
+        "min": 25.0,
+        "max": 2542.0
+    },
+    "DRS_Board7_Group2_Channel4": {
+        "mean": 2405.2329903109107,
+        "min": 0.0,
+        "max": 2482.0
+    },
+    "DRS_Board7_Group2_Channel5": {
+        "mean": 2352.4626368019076,
+        "min": 1376.0,
+        "max": 2482.0
+    },
+    "DRS_Board7_Group2_Channel6": {
+        "mean": 2382.7154715511783,
+        "min": 0.0,
+        "max": 2604.0
+    },
+    "DRS_Board7_Group2_Channel7": {
+        "mean": 2398.3254528314847,
+        "min": 0.0,
+        "max": 2708.0
+    },
+    "DRS_Board7_Group2_Channel8": {
+        "mean": 2106.6750098865114,
+        "min": 499.0,
+        "max": 2472.0
+    },
+    "DRS_Board7_Group3_Channel0": {
+        "mean": 2667.3060122848374,
+        "min": 2659.0,
+        "max": 2742.0
+    },
+    "DRS_Board7_Group3_Channel1": {
+        "mean": 2618.221447962763,
+        "min": 2610.0,
+        "max": 2692.0
+    },
+    "DRS_Board7_Group3_Channel2": {
+        "mean": 2638.5101578130543,
+        "min": 2630.0,
+        "max": 2712.0
+    },
+    "DRS_Board7_Group3_Channel3": {
+        "mean": 2634.615690009203,
+        "min": 2626.0,
+        "max": 2708.0
+    },
+    "DRS_Board7_Group3_Channel4": {
+        "mean": 2622.6210596399956,
+        "min": 2615.0,
+        "max": 2695.0
+    },
+    "DRS_Board7_Group3_Channel5": {
+        "mean": 2610.8569491472963,
+        "min": 2603.0,
+        "max": 2683.0
+    },
+    "DRS_Board7_Group3_Channel6": {
+        "mean": 2612.523858677708,
+        "min": 2604.0,
+        "max": 2686.0
+    },
+    "DRS_Board7_Group3_Channel7": {
+        "mean": 2576.5558378849273,
+        "min": 2567.0,
+        "max": 2650.0
+    },
+    "DRS_Board7_Group3_Channel8": {
+        "mean": 2050.632610996881,
+        "min": 479.0,
+        "max": 2411.0
+    }
+}
